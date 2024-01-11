@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    font-family: Roboto, sans-serif;
+     color: white;
+}
+.main{
+    text-align: center;
+}
+.count{
+    background-color: lightgreen;
+    font-size: 125px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn{
+    background-color: limegreen;
+    font-size: 50px;
+    margin: 150px 75px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: green;
+    font-size: 60px;
+}
